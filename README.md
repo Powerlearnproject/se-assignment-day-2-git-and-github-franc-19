@@ -18,7 +18,7 @@ Tracking Changes: Records what was changed, by whom, and when.
 Collaboration: Allows multiple people to work together without conflicts.
 Reverting Changes: Enables rollback to previous versions if needed.
 Branching: Supports isolated work on features or fixes.
-Conflict Resolution: Helps merge changes and resolve conflicts.
+Conflict Resolution: Helps merge changes and resolve conflicts..
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
